@@ -1,0 +1,1 @@
+export const PROFILE_IMAGE_DIR_PATH = 'http://localhost:5x000/UserProfileImages/'
